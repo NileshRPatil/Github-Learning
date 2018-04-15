@@ -1,0 +1,5 @@
+1.Remove index.php
+2.create Header and Footer
+3.create template
+3.create MY_controller
+4.set timezone
