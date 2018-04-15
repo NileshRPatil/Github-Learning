@@ -1,4 +1,3 @@
-
 <?php
 // Important Document
 
@@ -244,28 +243,3 @@ http://stackoverflow.com/questions/2194992/jquery-is-not-defined
 
 3) PHP 
 //  http://stackoverflow.com/questions/4314392/send-parameters-to-a-url-and-get-output-from-that-page
-
-Varad
-Anwik
-
-
-//Hacker rank
-input 
-3
-1 2 3
-fscanf(STDIN, "%d\n", $n);
-fscanf(STDIN,"%[^\n]s",$a);
-input
-2
-18
-40
-fscanf(STDIN, "%s", $n);
-for($i=0;$i<$n;$i++)
-{
-    fscanf(STDIN, "\n%s", $seat_no);
-}
-
-45
-45
-45
-45
