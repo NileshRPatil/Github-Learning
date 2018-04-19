@@ -3,3 +3,4 @@
 3.create template
 3.create MY_controller
 4.set timezone
+5.create constant for messages in both php and jquery
