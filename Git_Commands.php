@@ -1,4 +1,6 @@
 <?php
+//link
+//https://www.atlassian.com/git/tutorials/syncing#git-remote
 
 Git and Git hub
 1. git --version
@@ -48,4 +50,6 @@ git config --global user.email "nileshrpatil1811@gmail"
 // merge mybranch into current branch
 22. git clone git@github.com:NileshRPatil/Github-Learning.git
 //download remote files on local
+23. git pull origin master --allow-unrelated-histories
+//Git refusing to merge unrelated histories on rebase
 
