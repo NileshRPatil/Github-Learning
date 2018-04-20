@@ -52,4 +52,6 @@ git config --global user.email "nileshrpatil1811@gmail"
 //download remote files on local
 23. git pull origin master --allow-unrelated-histories
 //Git refusing to merge unrelated histories on rebase
+24. git fetch --all
+	git reset --hard origin/master
 
