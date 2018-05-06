@@ -1,6 +1,10 @@
 <?php
 //link
-//https://www.atlassian.com/git/tutorials/syncing#git-remote
+/* 
+*https://git-scm.com/docs
+*https://www.atlassian.com/git/tutorials/syncing#git-remote
+*
+*/
 
 Git and Git hub
 1. git --version
