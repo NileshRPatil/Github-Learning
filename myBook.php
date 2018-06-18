@@ -242,3 +242,24 @@ http://stackoverflow.com/questions/2194992/jquery-is-not-defined
 
 3) PHP 
 //  http://stackoverflow.com/questions/4314392/send-parameters-to-a-url-and-get-output-from-that-page
+
+
+//backlogs
+1.FOS project in core PHP
+	1.report in graph
+	2.front page
+	3.
+//planning
+1.Project in codeigniter with MVC
+2.Project in codeigniter HMVC
+3.Learn Laravel
+//Doing
+	1. Date Time
+	
+//reviewing
+//done
+1.Learn Database connection
+	-Procedure Oriented
+	-Object Oriented
+	-Object Oriented with prepared statement
+	-PDO
