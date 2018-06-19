@@ -1,5 +1,7 @@
 <?php
 
+date_default_timezone_set("Asia/Kolkata");
+
 $date = new DateTime;
 
 // echo $date->format('dS M Y');
@@ -74,3 +76,39 @@ $date = new DateTime;
 
 // var_dump($date);
 
+
+//DateTime Periods
+
+
+
+// $start = new DateTime;
+
+// $start->setTime(12,30,00);
+
+// $end = clone $start;
+
+// $end->setTime(16,30,00);
+
+// $interval = new DateInterval('PT1H');
+
+// $daterange = new DatePeriod($start,$interval,$end);
+
+// foreach($daterange as $date)
+// {
+// 	echo "<br>".$date->format("H:i:s");
+// }
+
+// $end = new DateTime('+1 Day');
+
+// $start = new DateTime("-6 Days");
+
+// $interval = new DateInterval('P1D');
+
+// $daterange = new DatePeriod($start,$interval,$end);
+// echo "<pre>";
+// print_r ($daterange);
+// echo "</pre>";
+// foreach ($daterange as $date) {
+// 	echo "<br>".$date->format("Y-m-d");	
+
+// }
